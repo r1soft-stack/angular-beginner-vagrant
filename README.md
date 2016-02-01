@@ -1,5 +1,2 @@
-# angular-beginnner-vagrant
+# Angular beginnner & Vagrant
 Angular Beginner with Vagrant
-
-# vagrant-experiencebox
-Vagrant box and provisioning for ExperienceTools YOOX-NET-A-PORTER environment developer area
